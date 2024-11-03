@@ -11,440 +11,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63cd464b-2359-4641-906f-f90361d6243c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Tanks/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Tanks/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Tanks/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Tanks/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Tanks/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/Tanks/v17/.suo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/TanksEditor.target" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_0.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_0.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_0.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_0.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_1.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_1.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_1.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_1.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_10.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_10.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_10.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_10.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_11.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_11.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_11.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_11.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_12.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_12.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_12.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_12.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_13.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_13.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_13.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_13.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_14.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_14.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_14.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_14.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_15.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_15.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_15.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_15.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_16.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_16.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_16.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_16.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_17.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_17.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_17.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_17.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_18.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_18.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_18.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_18.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_19.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_19.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_19.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_19.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_2.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_2.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_2.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_2.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_20.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_20.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_20.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_20.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_3.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_3.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_3.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_3.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_4.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_4.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_4.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_4.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_5.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_5.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_5.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_5.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_6.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_6.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_6.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_6.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_7.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_7.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_7.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_7.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_8.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_8.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_8.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_8.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_9.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_9.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_9.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.patch_9.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-Tanks.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor.modules" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Config/DefaultEditor.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Config/DefaultGame.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Config/DefaultInput.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Audio/Explode_Audio.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Audio/Thud_Audio.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Effects/P_DeathEffect.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Effects/P_HitEffect.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Effects/P_ProjectileTrail.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Materials/Base/M_GridBase.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Materials/Base/M_Grid_Inst.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Materials/Functions/Basic/BreakSet.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Materials/Functions/Basic/MakeSet.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Materials/Functions/Texture/Dye_SingleColor.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Materials/Functions/Texture/Tex_SimpleGrid.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Materials/Functions/UV/UV_ObjectScalable.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Materials/Functions/UV/UV_SetupGrid.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Materials/M_EmissiveBase.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Materials/M_EmissiveGreen_Inst.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Materials/M_EmissiveRed_Inst.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Materials/M_ParticleBase.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Materials/M_Particle_Inst.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Materials/M_TextureBase.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Materials/M_Texture_Inst.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Meshes/SM_Projectile.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Meshes/SM_Sphere.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Meshes/SM_TankBase.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Meshes/SM_TankTurret.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Meshes/SM_TowerBase.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Meshes/SM_TowerTurret.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Textures/T_BasicGrid_M.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Textures/T_BasicGrid_N.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Textures/T_ColourGrid.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Blueprints/BP_Projectile.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Blueprints/Pawns/BP_PawnTank.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Blueprints/Pawns/BP_Tower.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Main.umap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRules/TanksModuleRules.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRules/TanksModuleRules.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRules/TanksModuleRulesManifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/TanksModuleRules.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/bin/Development/EpicGames.Core.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/bin/Development/EpicGames.Core.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/bin/Development/EpicGames.Horde.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/bin/Development/EpicGames.Horde.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/bin/Development/EpicGames.Horde.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/bin/Development/EpicGames.IoHash.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/bin/Development/EpicGames.IoHash.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/bin/Development/EpicGames.MsBuild.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/bin/Development/EpicGames.MsBuild.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/bin/Development/EpicGames.OIDC.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/bin/Development/EpicGames.OIDC.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/bin/Development/EpicGames.Oodle.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/bin/Development/EpicGames.Oodle.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/bin/Development/EpicGames.Oodle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/bin/Development/EpicGames.Serialization.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/bin/Development/EpicGames.Serialization.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/bin/Development/EpicGames.UBA.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/bin/Development/EpicGames.UBA.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/bin/Development/EpicGames.UBA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/bin/Development/EpicGames.UHT.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/bin/Development/EpicGames.UHT.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/bin/Development/EpicGames.UHT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/bin/Development/TanksModuleRules.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/bin/Development/TanksModuleRules.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/bin/Development/TanksModuleRules.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/bin/Development/liboo2corelinux64.so.9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/bin/Development/liboo2corelinuxarm32.so.9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/bin/Development/liboo2corelinuxarm64.so.9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/bin/Development/liboo2coremac64.2.9.10.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/bin/Development/oo2core_9_win32.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/bin/Development/oo2core_9_win64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/bin/Development/oo2core_9_winuwparm64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/bin/Development/ref/TanksModuleRules.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/bin/Development/runtimes/win-x64/native/UbaDetours.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/bin/Development/runtimes/win-x64/native/UbaHost.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/obj/Development/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/obj/Development/TanksMod.EE1D59A7.Up2Date" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/obj/Development/TanksModuleRules.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/obj/Development/TanksModuleRules.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/obj/Development/TanksModuleRules.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/obj/Development/TanksModuleRules.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/obj/Development/TanksModuleRules.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/obj/Development/TanksModuleRules.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/obj/Development/TanksModuleRules.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/obj/Development/TanksModuleRules.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/obj/Development/TanksModuleRules.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/obj/Development/refint/TanksModuleRules.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/obj/TanksModuleRules.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/obj/TanksModuleRules.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/obj/TanksModuleRules.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/TanksModuleRules/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/ActionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/TanksEditor/Development/TanksEditor.deps" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/TanksEditor/Development/TanksEditor.uhtmanifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/TanksEditor/Development/TanksEditor.uhtpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/Tanks/UHT/BasePawn.gen.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/Tanks/UHT/BasePawn.generated.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/Tanks/UHT/Projectile.gen.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/Tanks/UHT/Projectile.generated.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/Tanks/UHT/Tank.gen.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/Tanks/UHT/Tank.generated.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/Tanks/UHT/Tanks.init.gen.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/Tanks/UHT/TanksClasses.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/Tanks/UHT/Timestamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/Tanks/UHT/Tower.gen.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/Tanks/UHT/Tower.generated.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/ActionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/Core/SharedDefinitions.Core.Cpp20.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/Core/SharedDefinitions.Core.RTTI.Cpp20.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/Core/SharedPCH.Core.Cpp20.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/Core/SharedPCH.Core.Cpp20.cpp.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/Core/SharedPCH.Core.Cpp20.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/Core/SharedPCH.Core.Cpp20.h.obj.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/Core/SharedPCH.Core.Cpp20.h.obj.rsp.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/Core/SharedPCH.Core.Cpp20.h.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/Core/SharedPCH.Core.RTTI.Cpp20.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/Core/SharedPCH.Core.RTTI.Cpp20.cpp.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/Core/SharedPCH.Core.RTTI.Cpp20.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/Core/SharedPCH.Core.RTTI.Cpp20.h.obj.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/Core/SharedPCH.Core.RTTI.Cpp20.h.obj.rsp.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/Core/SharedPCH.Core.RTTI.Cpp20.h.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/CoreUObject/SharedDefinitions.CoreUObject.Cpp20.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/CoreUObject/SharedDefinitions.CoreUObject.RTTI.Cpp20.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/CoreUObject/SharedPCH.CoreUObject.Cpp20.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/CoreUObject/SharedPCH.CoreUObject.Cpp20.cpp.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/CoreUObject/SharedPCH.CoreUObject.Cpp20.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/CoreUObject/SharedPCH.CoreUObject.Cpp20.h.obj.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/CoreUObject/SharedPCH.CoreUObject.Cpp20.h.obj.rsp.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/CoreUObject/SharedPCH.CoreUObject.Cpp20.h.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/CoreUObject/SharedPCH.CoreUObject.RTTI.Cpp20.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/CoreUObject/SharedPCH.CoreUObject.RTTI.Cpp20.cpp.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/CoreUObject/SharedPCH.CoreUObject.RTTI.Cpp20.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/CoreUObject/SharedPCH.CoreUObject.RTTI.Cpp20.h.obj.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/CoreUObject/SharedPCH.CoreUObject.RTTI.Cpp20.h.obj.rsp.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/CoreUObject/SharedPCH.CoreUObject.RTTI.Cpp20.h.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/DependencyCache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/Engine/SharedDefinitions.Engine.Cpp20.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/Engine/SharedDefinitions.Engine.Project.ValApi.Cpp20.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/Engine/SharedPCH.Engine.Cpp20.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/Engine/SharedPCH.Engine.Cpp20.cpp.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/Engine/SharedPCH.Engine.Cpp20.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/Engine/SharedPCH.Engine.Cpp20.h.obj.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/Engine/SharedPCH.Engine.Cpp20.h.obj.rsp.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/Engine/SharedPCH.Engine.Cpp20.h.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/Engine/SharedPCH.Engine.Project.ValApi.Cpp20.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/Engine/SharedPCH.Engine.Project.ValApi.Cpp20.cpp.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/Engine/SharedPCH.Engine.Project.ValApi.Cpp20.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/Engine/SharedPCH.Engine.Project.ValApi.Cpp20.h.obj.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/Engine/SharedPCH.Engine.Project.ValApi.Cpp20.h.obj.rsp.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/Engine/SharedPCH.Engine.Project.ValApi.Cpp20.h.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/Makefile.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/Slate/SharedDefinitions.Slate.Cpp20.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/Slate/SharedPCH.Slate.Cpp20.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/Slate/SharedPCH.Slate.Cpp20.cpp.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/Slate/SharedPCH.Slate.Cpp20.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/Slate/SharedPCH.Slate.Cpp20.h.obj.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/Slate/SharedPCH.Slate.Cpp20.h.obj.rsp.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/Slate/SharedPCH.Slate.Cpp20.h.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/TargetMetadata.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/UnrealEd/SharedDefinitions.UnrealEd.Cpp20.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/UnrealEd/SharedDefinitions.UnrealEd.Project.ValApi.Cpp20.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/UnrealEd/SharedDefinitions.UnrealEd.RTTI.Cpp20.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp20.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp20.cpp.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp20.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp20.h.obj.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp20.h.obj.rsp.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp20.h.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.Cpp20.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.Cpp20.cpp.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.Cpp20.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.dep.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.dep.lc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.lc.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj.rsp.lc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj.rsp.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/UnrealEd/SharedPCH.UnrealEd.RTTI.Cpp20.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/UnrealEd/SharedPCH.UnrealEd.RTTI.Cpp20.cpp.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/UnrealEd/SharedPCH.UnrealEd.RTTI.Cpp20.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/UnrealEd/SharedPCH.UnrealEd.RTTI.Cpp20.h.obj.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/UnrealEd/SharedPCH.UnrealEd.RTTI.Cpp20.h.obj.rsp.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/TanksEditor/Development/UnrealEd/SharedPCH.UnrealEd.RTTI.Cpp20.h.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/ActionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/BasePawn.cpp.dep.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/BasePawn.cpp.dep.lc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/BasePawn.cpp.lc.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/BasePawn.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/BasePawn.cpp.obj.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/BasePawn.cpp.obj.rsp.lc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/BasePawn.cpp.obj.rsp.lc.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/BasePawn.cpp.obj.rsp.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/BasePawn.gen.cpp.dep.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/BasePawn.gen.cpp.dep.lc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/BasePawn.gen.cpp.lc.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/BasePawn.gen.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/BasePawn.gen.cpp.obj.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/BasePawn.gen.cpp.obj.rsp.lc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/BasePawn2.cpp.dep.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/BasePawn2.cpp.dep.lc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/BasePawn2.cpp.lc.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/BasePawn2.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/BasePawn2.cpp.obj.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/BasePawn2.cpp.obj.rsp.lc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/BasePawn2.gen.cpp.dep.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/BasePawn2.gen.cpp.dep.lc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/BasePawn2.gen.cpp.lc.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/BasePawn2.gen.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/BasePawn2.gen.cpp.obj.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/BasePawn2.gen.cpp.obj.rsp.lc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Default.rc2.res" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Default.rc2.res.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Default.rc2.res.rsp.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Definitions.Tanks.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Definitions.Tanks.h.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/LiveCodingInfo.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Projectile.cpp.dep.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Projectile.cpp.dep.lc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Projectile.cpp.lc.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Projectile.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Projectile.cpp.obj.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Projectile.cpp.obj.rsp.lc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Projectile.gen.cpp.dep.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Projectile.gen.cpp.dep.lc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Projectile.gen.cpp.lc.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Projectile.gen.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Projectile.gen.cpp.obj.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Projectile.gen.cpp.obj.rsp.lc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Tank.cpp.dep.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Tank.cpp.dep.lc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Tank.cpp.lc.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Tank.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Tank.cpp.obj.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Tank.cpp.obj.rsp.lc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Tank.gen.cpp.dep.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Tank.gen.cpp.dep.lc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Tank.gen.cpp.lc.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Tank.gen.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Tank.gen.cpp.obj.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Tank.gen.cpp.obj.rsp.lc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Tanks.Shared.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Tanks.Shared.rsp.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Tanks.cpp.dep.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Tanks.cpp.dep.lc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Tanks.cpp.lc.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Tanks.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Tanks.cpp.obj.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Tanks.cpp.obj.rsp.lc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Tanks.cpp.obj.rsp.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Tanks.init.gen.cpp.dep.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Tanks.init.gen.cpp.dep.lc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Tanks.init.gen.cpp.lc.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Tanks.init.gen.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Tanks.init.gen.cpp.obj.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Tanks.init.gen.cpp.obj.rsp.lc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Tower.cpp.dep.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Tower.cpp.dep.lc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Tower.cpp.lc.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Tower.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Tower.cpp.obj.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Tower.cpp.obj.rsp.lc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Tower.gen.cpp.dep.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Tower.gen.cpp.dep.lc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Tower.gen.cpp.lc.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Tower.gen.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Tower.gen.cpp.obj.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/Tower.gen.cpp.obj.rsp.lc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/UnrealEditor-Tanks.dll.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/UnrealEditor-Tanks.dll.rsp.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/UnrealEditor-Tanks.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/UnrealEditor-Tanks.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/UnrealEditor-Tanks.lib.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/UnrealEditor-Tanks.lib.rsp.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/UnrealEditor-Tanks.sup.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/Tanks/UnrealEditor-Tanks.sup.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/XmlConfigCache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry_0.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Config/CoalescedSourceConfigs/Crypto.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Config/CoalescedSourceConfigs/GameUserSettings.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Config/CoalescedSourceConfigs/InternationalizationExport.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Config/CoalescedSourceConfigs/ObjectMixerSerializedData.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Config/CoalescedSourceConfigs/TranslationPickerSettings.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Config/CoalescedSourceConfigs/UnrealInsightsSessionBrowserSettings.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Config/CoalescedSourceConfigs/UnrealInsightsSettings.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/PipInstall/Lib/site-packages/plugin_site_package.pth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/PipInstall/extra_urls.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/PipInstall/merged_requirements.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/PipInstall/pyreqs_plugins.list" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/.Rider/Win64/Development/Editor/Tanks.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/.Rider/Win64/Development/Editor/UE5.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/.Rider/root.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/AutomationTool.csproj.References" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/Tanks.vcxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/Tanks.vcxproj.filters" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/Tanks.vcxproj.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/UE5.vcxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/UE5.vcxproj.filters" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/UE5.vcxproj.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/UECommon.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/ReimportCache/3688439234.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/TargetInfo.Engine.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/TargetInfo.Tanks.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/TargetInfo.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/Main_Auto1.umap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-15AFDFFC471020C5DEB03E8DE9B9E86E/CrashReportClient.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-186717EF48CE06F1D5F34ABA3AD67A06/CrashReportClient.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-22BE68FA4E6CADE79DC4F1B833952661/CrashReportClient.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-488C9DEF46A645BB3EB67BAAB1581452/CrashReportClient.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-640EEAFC44946482DE45328A071BBC2F/CrashReportClient.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-65B8154B4C1BC1D25395BC9023CB8A16/CrashReportClient.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-6B6673A9494C57F80CF2A3993B1FB64F/CrashReportClient.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-704C305A4F081C8D2F3B24AACDB847F6/CrashReportClient.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-93C9541949C39D7EF953818D794C3E75/CrashReportClient.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-9BB8C959496B7CE7A6929996F2F5F9B2/CrashReportClient.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-A7DCB69748E1EF6307110E82C0BC1E68/CrashReportClient.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-B86E751548F561122469409041CA4D4E/CrashReportClient.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/Tanks/Private/BasePawn.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/Tanks/Private/Projectile.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/Tanks/Private/Tank.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/Tanks/Private/Tower.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/Tanks/Public/BasePawn.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/Tanks/Public/Projectile.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/Tanks/Public/Tank.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/Tanks/Public/Tower.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/Tanks/Tanks.Build.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/Tanks/Tanks.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/Tanks/Tanks.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Tanks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Tanks/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_Projectile.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Pawns/BP_PawnTank.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Pawns/BP_PawnTank.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Pawns/BP_Tower.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Pawns/BP_Tower.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Main.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Main.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Tanks/Private/BasePawn.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Tanks/Private/BasePawn.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Tanks/Private/Projectile.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Tanks/Private/Projectile.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Tanks/Private/Tank.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Tanks/Private/Tank.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Tanks/Private/Tower.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Tanks/Private/Tower.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Tanks/Public/BasePawn.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Tanks/Public/BasePawn.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Tanks/Public/Projectile.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Tanks/Public/Projectile.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Tanks/Public/Tank.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Tanks/Public/Tank.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Tanks/Public/Tower.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Tanks/Public/Tower.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -456,11 +36,14 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../../Engine/UE_5.4/Engine/Source/Runtime/Engine/Classes/Engine/World.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Engine/UE_5.4/Engine/Source/Runtime/Engine/Classes/GameFramework/GameModeBase.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/Tanks/Private/Projectile.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/Tanks/Private/Tank.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/Tanks/Private/TanksGameMode.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/Tanks/Private/Tower.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/Tanks/Public/Projectile.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/Tanks/Public/Tank.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/Tanks/Public/TanksGameMode.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/Tanks/Public/Tower.h" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
@@ -472,20 +55,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="C++ Project.Tanks">
     <configuration name="Tanks" type="CppProject" factoryName="C++ Project">
       <configuration_1>
@@ -915,6 +498,9 @@
       <workItem from="1730556111627" duration="7058000" />
       <workItem from="1730615474363" duration="7131000" />
       <workItem from="1730628196270" duration="1442000" />
+      <workItem from="1730630140896" duration="2633000" />
+      <workItem from="1730635548258" duration="2834000" />
+      <workItem from="1730639660352" duration="339000" />
     </task>
     <servers />
   </component>

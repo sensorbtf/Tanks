@@ -42,3 +42,9 @@ bool ATower::IsInFireRange(FVector& TankLocation) const
 
 	return Distance <= FireRange;
 }
+
+void ATower::HandleDestruction()
+{
+	Super::HandleDestruction();
+	Destroy();
+}
