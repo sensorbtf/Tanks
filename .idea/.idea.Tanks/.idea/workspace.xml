@@ -11,8 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63cd464b-2359-4641-906f-f90361d6243c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Tanks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Tanks/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Tanks/Private/Projectile.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Tanks/Private/Projectile.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Tanks/Private/Tank.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Tanks/Private/Tank.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

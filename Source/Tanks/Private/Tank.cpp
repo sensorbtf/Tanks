@@ -52,14 +52,14 @@ void ATank::Move(float p_value)
 {
 	FVector DeltaLocation = FVector::ZeroVector;
 	DeltaLocation.X = p_value * Speed * UGameplayStatics::GetWorldDeltaSeconds(this);
-	AddActorLocalOffset(DeltaLocation);
+	AddActorLocalOffset(DeltaLocation, true);
 }
 
 void ATank::Turn(float p_value)
 {
 	FRotator DeltaRotation = FRotator::ZeroRotator;
 	DeltaRotation.Yaw = p_value * TurningSpeed * UGameplayStatics::GetWorldDeltaSeconds(this);
-	AddActorLocalRotation(DeltaRotation);
+	AddActorLocalRotation(DeltaRotation, true);
 }
 
 void ATank::HandleDestruction()
