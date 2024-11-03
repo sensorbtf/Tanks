@@ -2,8 +2,6 @@
 
 
 #include "Projectile.h"
-
-#include "MovieSceneTracksComponentTypes.h"
 #include "Kismet/GameplayStatics.h"
 #include "Particles/ParticleSystemComponent.h"
 
