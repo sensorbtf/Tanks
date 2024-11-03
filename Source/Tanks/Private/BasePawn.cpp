@@ -47,9 +47,12 @@ void ABasePawn::Fire()
 	Projectile -> SetOwner(this);
 }
 
-void ABasePawn::HandleDestruction()
+void ABasePawn::HandleDestruction() const
 {
-	// TODO: visual+sound effect later
-
-	
+	UGameplayStatics::PlaySoundAtLocation(this, DestroySound, RootComponent->GetComponentLocation());
+	UGameplayStatics::SpawnEmitterAtLocation(this, DestroyParticles, GetActorLocation(), GetActorRotation());
+	if(DeathCameraShakeClass)
+	{
+		GetWorld()->GetFirstPlayerController()->ClientStartCameraShake(DeathCameraShakeClass);
+	}
 }

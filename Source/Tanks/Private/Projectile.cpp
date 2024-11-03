@@ -3,16 +3,21 @@
 
 #include "Projectile.h"
 
+#include "MovieSceneTracksComponentTypes.h"
 #include "Kismet/GameplayStatics.h"
+#include "Particles/ParticleSystemComponent.h"
 
 // Sets default values
 AProjectile::AProjectile()
 {
- 	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
+	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
 
 	ProjectileMesh = CreateDefaultSubobject<UStaticMeshComponent>("ProjectileMesh");
 	RootComponent = ProjectileMesh;
+
+	TrailParticle = CreateDefaultSubobject<UParticleSystemComponent>("UParticleSystemComponent");
+	TrailParticle->SetupAttachment(RootComponent);
 
 	ProjectileMovement = CreateDefaultSubobject<UProjectileMovementComponent>("ProjectileMovementComponent");
 	ProjectileMovement->InitialSpeed = 2000;
@@ -23,7 +28,9 @@ AProjectile::AProjectile()
 void AProjectile::BeginPlay()
 {
 	Super::BeginPlay();
-	ProjectileMesh -> OnComponentHit.AddDynamic(this, &AProjectile::OnHit);
+	ProjectileMesh->OnComponentHit.AddDynamic(this, &AProjectile::OnHit);
+	if (LaunchSound)
+		UGameplayStatics::PlaySoundAtLocation(this, LaunchSound, RootComponent->GetComponentLocation());
 }
 
 // Called every frame
@@ -36,14 +43,32 @@ void AProjectile::OnHit(UPrimitiveComponent* HitComp, AActor* OtherActor, UPrimi
 {
 	auto MyOwner = GetOwner();
 
-	if (MyOwner == nullptr) return;
+	if(MyOwner == nullptr)
+	{
+		DestroyHandler();
+		return;
+	}
 
 	auto MyOwnerInstigator = MyOwner->GetInstigatorController();
 	auto DamageTypeClass = UDamageType::StaticClass();
 
-	if (OtherActor && OtherActor != this && OtherActor != MyOwner)
+	if(OtherActor && OtherActor != this && OtherActor != MyOwner)
 	{
 		UGameplayStatics::ApplyDamage(OtherActor, Damage, MyOwnerInstigator, this, DamageTypeClass);
-		Destroy();
+		if(HitCameraShakeClass)
+		{
+			GetWorld()->GetFirstPlayerController()->ClientStartCameraShake(HitCameraShakeClass);
+		}
 	}
+
+	DestroyHandler();
+}
+
+void AProjectile::DestroyHandler()
+{
+	UGameplayStatics::SpawnEmitterAtLocation(this, HitParticle, GetActorLocation(), GetActorRotation());
+	if (LaunchSound)
+		UGameplayStatics::PlaySoundAtLocation(this, HitSound, RootComponent->GetComponentLocation());
+	Destroy();
+	
 }

@@ -32,7 +32,21 @@ private:
 
 	UPROPERTY(EditAnywhere, Category = "Combat")
 	float Damage = 50.0f;
+
+	UPROPERTY(EditAnywhere, Category = "Combat")
+	UParticleSystem* HitParticle;
+	UPROPERTY(VisibleAnywhere, Category = "Combat")
+	UParticleSystemComponent* TrailParticle;
+	UPROPERTY(EditAnywhere, Category = "Combat")
+	USoundBase* LaunchSound;
+	UPROPERTY(EditAnywhere, Category = "Combat")
+	USoundBase* HitSound;
+	UPROPERTY(EditAnywhere, Category = "Combat")
+	TSubclassOf<UCameraShakeBase> HitCameraShakeClass;
+
 	
 	UFUNCTION()
 	void OnHit(UPrimitiveComponent* HitComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, FVector NormalImpulse, const FHitResult& Hit);
+	UFUNCTION()
+	void DestroyHandler();
 };

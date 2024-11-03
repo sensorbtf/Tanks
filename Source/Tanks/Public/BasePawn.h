@@ -14,7 +14,7 @@ class TANKS_API ABasePawn : public APawn
 public:
 	// Sets default values for this pawn's properties
 	ABasePawn();
-	void HandleDestruction();
+	void HandleDestruction() const;
 
 protected:
 	void RotateTurret(FVector p_targetToLookAt);
@@ -36,4 +36,10 @@ private:
 
 	UPROPERTY(EditDefaultsOnly, Category="Combat")
 	TSubclassOf<class AProjectile> ProjectileClass;
+	UPROPERTY(EditAnywhere, Category = "Combat")
+	UParticleSystem* DestroyParticles;
+	UPROPERTY(EditAnywhere, Category = "Combat")
+	USoundBase* DestroySound;
+	UPROPERTY(EditAnywhere, Category = "Combat")
+	TSubclassOf<UCameraShakeBase> DeathCameraShakeClass;
 };

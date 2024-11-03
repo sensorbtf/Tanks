@@ -44,7 +44,7 @@ void UHealthComponent:: DamageTaken(AActor* DamagedActor, float Damage, const UD
 	Health -= Damage;
 	if (Health <= 0.0f)
 	{
-		
+		GameMode->ActorDied(DamagedActor);
 	}
 }
 

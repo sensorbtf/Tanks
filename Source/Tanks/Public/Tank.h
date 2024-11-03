@@ -16,7 +16,7 @@ public:
 	virtual void       SetupPlayerInputComponent(UInputComponent* p_playerInputComponent) override;
 	void               HandleDestruction();
 	APlayerController* GetTankPlayerController() const { return TankPlayerController; }
-
+	bool bAlive = true;
 protected:
 	// Sets default values for this pawn's properties
 	virtual void BeginPlay() override;
@@ -31,7 +31,7 @@ private:
 	float Speed = 200.0f;
 	UPROPERTY(EditAnywhere, Category = "Parameters")
 	float TurningSpeed = 200.0f;
-
+	
 	void               Move(float p_value);
 	void               Turn(float p_value);
 	void               Tick(float DeltaTime);

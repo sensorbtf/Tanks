@@ -10,25 +10,25 @@
  * 
  */
 UCLASS()
-class TANKS_API ATower : public ABasePawn
-{
+class TANKS_API ATower : public ABasePawn {
 	GENERATED_BODY()
 
 protected:
 	virtual void BeginPlay() override;
-	
+
 public:
 	virtual void Tick(float DeltaTime) override;
-	void HandleDestruction();
+	void         HandleDestruction();
 
 private:
 	class ATank* Tank;
 
 	UPROPERTY(EditDefaultsOnly, Category = "Combat")
 	float FireRange = 50.0f;
-	
+
 	FTimerHandle FireRateTimerHandle;
-	float FireRate = 2.0f;
+	float        FireRate = 2.0f;
+
 	void CheckFireCondition();
 	bool IsInFireRange(FVector& TankLocation) const;
 };
